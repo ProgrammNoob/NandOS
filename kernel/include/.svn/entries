@@ -1,0 +1,126 @@
+10
+
+dir
+0
+http://nandos.googlecode.com/svn/trunk/kernel/include
+http://nandos.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9242cb72-f49a-b12f-fae2-3a2c7d864d06
+
+mm.h
+file
+
+
+
+add
+
+stddef.h
+file
+
+
+
+add
+
+intr.h
+file
+
+
+
+add
+
+com.h
+file
+
+
+
+add
+
+multiboot.h
+file
+
+
+
+add
+
+dis.h
+file
+
+
+
+add
+
+timer.h
+file
+
+
+
+add
+
+console.h
+file
+
+
+
+add
+
+task.h
+file
+
+
+
+add
+
+stdarg.h
+file
+
+
+
+add
+
+stdint.h
+file
+
+
+
+add
+
+elf.h
+file
+
+
+
+add
+
+string.h
+file
+
+
+
+add
+
+ports.h
+file
+
+
+
+add
+
